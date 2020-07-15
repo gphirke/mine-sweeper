@@ -1,0 +1,21 @@
+.reload-button {
+  border-radius: 2px;
+  display: inline-block;
+  margin: 5px;
+  padding: 0;
+  min-width: 88px;
+  background-color: transparent;
+  color: #19a0d9;
+  border: 1px solid #7b7b7b;
+  height: 26px;
+  transition: all 0.5s ease;
+  cursor: pointer;
+}
+
+.clear {
+  clear: both;
+}
+
+.remaining-count {
+  width: 280px;
+}
